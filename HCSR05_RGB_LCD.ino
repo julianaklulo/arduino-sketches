@@ -1,7 +1,8 @@
 /* 
   Juliana Karoline de Sousa
   
-  Projeto Universidade Aberta EnC UFSCar
+  Projeto para o stand da Engenharia de Computação no evento Universidade Aberta da UFSCar
+  https://www.youtube.com/watch?v=kkvau0lqzRc
   
   Usa um sensor HC-SR05, um led RGB e um display LCD 16x2.
   De acordo com a distancia medida pelo sensor, acende uma cor diferente do led
